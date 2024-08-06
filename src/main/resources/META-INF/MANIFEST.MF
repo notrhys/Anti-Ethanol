@@ -1,0 +1,4 @@
+Premain-Class: me.rhys.agent.entry.EntryPoint
+Agent-Class: me.rhys.agent.entry.EntryPoint
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true

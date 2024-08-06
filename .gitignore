@@ -1,0 +1,11 @@
+*.xml
+*.iml
+.idea
+'.idea'
+*.iml
+!pom.xml*
+*.class
+*.class
+*.DS_Store
+plugins/
+target/
