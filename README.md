@@ -28,3 +28,14 @@ The agent will still be able to block the malware using ASM, so you don't really
 SpigotMC doesn't really seem to be doing anything to combat this,
 its quite easy to spot the malware in a decompiler, they don't even bother to hide it, for example see the screenshot below:
 ![image](https://github.com/user-attachments/assets/73a6a933-3a2f-4242-b877-6bc04b7858aa)
+
+
+------
+YourKit supports open source projects with innovative and intelligent tools
+for monitoring and profiling Java and .NET applications.
+YourKit is the creator of 
+https://www.yourkit.com/java/profiler/
+https://www.yourkit.com/.net/profiler/ YourKit .NET Profiler
+and YourKit YouMonitor - https://www.yourkit.com/youmonitor/
+
+![YourKit](https://www.yourkit.com/images/yklogo.png)
